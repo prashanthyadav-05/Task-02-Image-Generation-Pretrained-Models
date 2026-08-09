@@ -1,0 +1,23 @@
+TASK-02 SUBMISSION CHECKLIST
+
+1. Install Python 3.11.
+2. Create and activate a virtual environment.
+3. Install requirements.txt.
+4. Run:
+       python app.py
+5. Open the Gradio local URL shown in the terminal.
+6. Enter 3-5 different prompts.
+7. Generate images.
+8. Save screenshots of the UI and generated results.
+9. Put selected generated images in the outputs folder if you want them tracked in GitHub.
+10. Upload the complete project to GitHub.
+
+Suggested screenshots:
+- Screenshot 1: VS Code project structure
+- Screenshot 2: Terminal showing model loading and successful generation
+- Screenshot 3: Gradio interface with a prompt
+- Screenshot 4: Generated image
+- Screenshot 5: Multiple generated outputs
+
+Suggested GitHub repository name:
+Task-02-Image-Generation-Pretrained-Models
